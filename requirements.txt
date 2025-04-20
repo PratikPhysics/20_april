@@ -1,3 +1,3 @@
-streamlil
+streamlit
 pickle
 numpy
